@@ -191,6 +191,12 @@ flutter run
 
 ---
 
+## Download the app
+
+[Mixer App](https://clikn.in/c1uyQY8)
+
+---
+
 ## 👨‍💻 Author
 
 Hi, I'm **Pulkit Gahlot**.
