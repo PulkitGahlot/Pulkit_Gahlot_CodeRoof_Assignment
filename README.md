@@ -185,6 +185,9 @@ flutter run
 
 ## Screenshots
 
+<img width="389" height="820" alt="Screenshot 2025-09-13 231703" src="https://github.com/user-attachments/assets/7adb7734-c196-4749-9095-6ecffc33a467" />  <img width="390" height="838" alt="Screenshot 2025-09-13 231738" src="https://github.com/user-attachments/assets/b39403cd-1ad1-481d-b838-8bb023f8af2b" />
+
+<img width="386" height="837" alt="Screenshot 2025-09-13 231943" src="https://github.com/user-attachments/assets/836dc85e-2314-4f51-8fcc-db4175047793" />  <img width="382" height="835" alt="Screenshot 2025-09-13 231834" src="https://github.com/user-attachments/assets/f314a5da-fb37-434d-b0d7-0f45ec04294d" />
 
 ---
 
